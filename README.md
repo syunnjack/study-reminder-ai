@@ -8,7 +8,7 @@ Recommended repository name: `study-reminder-ai`
 
 ## Domain candidates
 
-First candidate: `studyreminder.jp`
+Confirmed domain: `studyreminder.jp`
 
 Other candidates:
 
