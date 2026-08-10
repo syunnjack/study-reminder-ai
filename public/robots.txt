@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://studyreminder.jp/sitemap.xml
+
+Sitemap: https://study-reminder-ai.vercel.app/sitemap.xml
