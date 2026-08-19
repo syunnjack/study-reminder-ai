@@ -1,7 +1,4 @@
-# Study Reminder AI
+# studyreminder.jp
 
-資格学習をLINE/メールで毎日通知し、AI解説、有料問題集、講座送客へつなげる。
-
-Notification channels: LINE, X, email, Slack
-Revenue: 月額課金, 有料問題集, 講座 affiliate, 模試販売, 教育広告
-Primary categories: 一問一答, 復習, AI解説, 連続学習, 模試
+このサイトは準備中です。掲載できる情報が揃うまで、内容の公開を見合わせています。
+現時点で参照できるデータはありません。
